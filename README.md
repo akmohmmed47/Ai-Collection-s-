@@ -37,3 +37,7 @@ Serverless API functions in `api/` need their env vars (see `vercel.json`).
 
 👉 See **[DEPLOY.md](DEPLOY.md)** for step-by-step instructions (Vercel is recommended —
 the project ships with a ready-made `vercel.json`).
+
+## Free custom domain
+
+👉 Want a free custom domain like **aicollection.is-a.dev**? See **[DOMAIN.md](DOMAIN.md)**.
